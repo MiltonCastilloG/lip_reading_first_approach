@@ -1,6 +1,6 @@
 # First approach to lip reading
 
-##Introduction
+## Introduction
 Based in the World Health Organization, there are 360 million people that suffers hearing loss, in addition,  Calculations have shown that just 70 million people use the sign language, leaving the 290 million remaining in a disadvantaged position.
 
 
@@ -9,7 +9,7 @@ One of the goals of IT and artificial intelligence is the improvement of the lif
 
 On the other hand, there are a lot of interactions user-computer that require a good sense of hearing, like Skype job interviews or other communications tools. In answer to this problem, we plan to carry out an artificial intelligence model able to read lips in real time based on images and deliver the output as a subtitle of the image. Unfortunately, this is a complex problem and so far the team didn't have the time nor the data set to reach this goal, but, as a first approach, we developed an artificial intelligence model able to read vowels.
 
-##Project Research Paper (Spanish)
+## Project Research Paper (Spanish)
 
 [Research Document](https://docs.google.com/document/d/1xc9Akgd_sDl3eWft8xoXXY-QyDGn9i9YGz3FkAM0OTo)
 
@@ -31,8 +31,8 @@ cd ./client
 ```
 python vowels_prediction
 ```
-![AI Gif](https://i.imgur.com/jzc90l4.gifv)
-![AI Gif](https://i.imgur.com/dQKuYvg.gifv)
+![AI Gif](https://github.com/MiltonCastilloG/lip_reading_first_approach/raw/master/gif/rick2.gif)
+![AI Gif](https://github.com/MiltonCastilloG/lip_reading_first_approach/raw/master/gif/rick.gif)
 
 ## Built With help of
 
